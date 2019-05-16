@@ -8,7 +8,6 @@ html {
 header {
   width: 100%;
   height: 10%;
-
 }
 
 h1 {
@@ -20,10 +19,15 @@ h3 {
     color: grey;
 }
 
+.left{
+  height: 100%;
+  width: 10%;
+}
+
 .log {
   color: white;
 }
 
-p {
+text {
   text-indent: 2em;
 }
