@@ -16,7 +16,7 @@ h1 {
 }
 
 h3 {
-    color: grey;
+  color: grey;
 }
 
 .left{
@@ -26,8 +26,4 @@ h3 {
 
 .log {
   color: white;
-}
-
-text {
-  text-indent: 2em;
 }
