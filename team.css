@@ -1,0 +1,47 @@
+html {
+  max-height: 100%;
+  max-width: 100%;
+  background-color: black
+}
+
+a:link {
+  text-decoration: none;
+  padding-left: 202px;
+}
+
+.left{
+  width: 15%;
+  height: 600px;
+  float: left;
+  /* border: 1px solid white; */
+}
+
+h2{
+  text-align: center;
+  color: grey;
+}
+
+.one{
+  width: 23%;
+  height: 600px;
+  float: left;
+  /* border: 1px solid white; */
+}
+
+p{
+  color: grey;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: grey;
+}
+
+.top{
+  float: left;
+  width: 84%;
+  height: 5%;
+  /* border: 1px solid white; */
+  height: 25px;
+}
